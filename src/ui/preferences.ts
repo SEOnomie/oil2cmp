@@ -266,7 +266,7 @@ function _link(url: string, text: string): HTMLAnchorElement {
  */
 function _safeUrl(url: string): string {
   const raw = url || '';
-  // eslint-disable-next-line no-control-regex
+   
   const probe = raw.replace(/[\u0000-\u0020\u007f]/g, '').toLowerCase();
   if (/^(javascript|data|vbscript):/.test(probe)) return '#';
   const trimmed = raw.trim();

@@ -37,7 +37,7 @@ export function pushGoogleConsent(choices: ConsentChoices, config: OIL2Config): 
     typeof w.gtag === 'function'
       ? w.gtag
       : function (): void {
-          // eslint-disable-next-line prefer-rest-params
+           
           dataLayer.push(arguments);
         };
 
