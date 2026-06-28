@@ -14,7 +14,7 @@ Sicherheitsmeldungen nehmen wir entsprechend ernst.
 Bitte **keine** öffentlichen GitHub-Issues für Sicherheitslücken anlegen.
 Melde Schwachstellen stattdessen vertraulich per E-Mail an:
 
-**security@inbiz.de** (alternativ: marco.brenn@inbiz.de)
+**marco.brenn@inbiz.de**
 
 Bitte gib nach Möglichkeit an:
 
